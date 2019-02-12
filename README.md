@@ -1,4 +1,4 @@
-![Datax-logo](https://github.com/alibaba/DataX/blob/master/images/DataX-logo.jpg)
+![Datax-logo](https://github.com/alibaba/DataX/blob/master/images/DataX-logo.jpg?raw=true)
 
 
 
@@ -73,7 +73,7 @@ This software is free to use under the Apache License [Apache license](https://g
 
 # 开源版DataX企业用户
 
-![Datax-logo](https://github.com/alibaba/DataX/blob/master/images/datax-enterprise-users.jpg)
+![Datax-logo](https://github.com/alibaba/DataX/blob/master/images/datax-enterprise-users.jpg?raw=true)
 
 ```
 长期招聘 联系邮箱：hanfa.shf@alibaba-inc.com
